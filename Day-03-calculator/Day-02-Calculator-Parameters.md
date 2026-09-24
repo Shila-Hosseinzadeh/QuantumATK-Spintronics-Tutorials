@@ -22,6 +22,9 @@ This document provides a detailed breakdown of the physical and numerical ration
 
 \---
 
+<img width="733" height="611" alt="Screenshot 2026-09-24 161830" src="https://github.com/user-attachments/assets/748c0508-7f5a-40b6-a3c2-bac3e68e115b" />
+
+
 
 
 \## 2. Basic Settings Parameters
@@ -48,6 +51,7 @@ This document provides a detailed breakdown of the physical and numerical ration
 
 \---
 
+<img width="737" height="346" alt="Screenshot 2026-09-24 164658" src="https://github.com/user-attachments/assets/63afab39-ed8c-4966-9cbd-51de5f7fc9b9" />
 
 
 \## 3. Algorithm Parameters
